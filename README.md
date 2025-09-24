@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![MyGif](./Kapture 2025-09-23 at 22.52.01.gif)
+![MyGif](./Walkthrough.gif)
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
